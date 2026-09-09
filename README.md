@@ -42,6 +42,10 @@ A full-stack web app that converts written text into natural-sounding speech. Us
 - Input validation and error handling (empty text, over-length text, failed requests)
 
 ---
+## Postman Collection
+
+Import [`FastAPI_postman_collection.json`](FastAPI_postman_collection.json) into Postman to test all API endpoints directly, or import the live spec:
+`https://tts-backend-wycp.onrender.com/openapi.json`
 
 ## Repositories
 
