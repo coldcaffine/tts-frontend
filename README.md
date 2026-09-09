@@ -2,7 +2,7 @@
 
 A full-stack web app that converts written text into natural-sounding speech. Users can enter text, choose a voice, generate audio, play it back, download it, and (if logged in) save it to their history with favorites.
 
-**Live app:** https://tts-frontend-xxxx.vercel.app *(update with your actual Vercel URL)*
+**Live app:** https://tts-frontend-bice.vercel.app/
 **Live API:** https://tts-backend-wycp.onrender.com
 **API docs (Swagger):** https://tts-backend-wycp.onrender.com/docs
 
